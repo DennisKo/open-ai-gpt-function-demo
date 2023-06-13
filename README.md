@@ -1,4 +1,12 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Demo of OpenAI GPT Function calling in NextJS -> https://platform.openai.com/docs/guides/gpt/function-calling
+
+## Setup
+
+Copy `.env.template` to `.env.development.local` and fill in the API keys.
+
+Get `OPENAI_API_KEY` from https://platform.openai.com/account/api-keys
+
+Get `OMDB_API_KEY` from https://www.omdbapi.com/apikey.aspx
 
 ## Getting Started
 
